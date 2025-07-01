@@ -63,8 +63,8 @@ python jarvis.py
 "Open Google"
 
 📌 Project Status
-✅ MVP Complete
-🧱 Currently at prototype stage
+✅ MVP Complete 
+🧱 Currently at prototype stage 
 🧠 Scope for future upgrades (e.g., chat-based interface, NLP command understanding, calendar integration)
 
 👨‍💻 Author
